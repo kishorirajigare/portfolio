@@ -2611,7 +2611,7 @@ textarea:focus::placeholder {
   }
 }
 .home-1 .portfolio-header-menu-btn .menu-btn {
-  background: #1b74e4;
+  background: linear-gradient(97deg, rgb(250, 82, 82) 0%, rgb(221, 36, 118) 100%);
 }
 .home-1 .mobile-menu-wrap .mobile-menu .mean-bar .mean-nav ul li:is(.active) a {
   color: #1b74e4;
